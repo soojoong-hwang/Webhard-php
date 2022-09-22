@@ -1,0 +1,11 @@
+a,body,table,tr,td,input {font-size:9pt;font-family:Trebuchet MS;color:#000000;}
+
+body {margin: 0px;width: 100%;}
+a { text-decoration:none; }
+a:hover { color: #336699; text-decoration:underline; }
+
+.toptitle {font-size: 20px;font-family: arial, sans-serif;font-weight: bold;color: white;padding-left: 20px;}
+.toolbarlink {padding-left: 4px;}
+.toolbarimgtd {padding-left: 10px;}
+
+.folder { color: #336699; }
